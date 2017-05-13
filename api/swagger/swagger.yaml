@@ -1,7 +1,7 @@
 swagger: "2.0"
 info:
   version: "0.0.1"
-  title: Hello World App
+  title: Swagger for Chris
 # during dev, should point to your local machine
 host: localhost:10010
 # basePath prefixes all resource paths
@@ -20,7 +20,7 @@ produces:
 paths:
   /movie:
     # our controller name
-    x-swagger-router-controller: new_movie
+    x-swagger-router-controller: chrisSwagger
     get:
       description: get the movies list
       # define the type of response for Success "200" and Error
