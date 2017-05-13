@@ -1,2 +1,1 @@
-# swaggerForChris
-Quick  Swagger Demo For CChris
+# Skeleton project for Swagger
